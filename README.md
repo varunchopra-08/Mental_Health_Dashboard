@@ -3,9 +3,11 @@ Certainly! Below is a template for a README.md file for the "ZenZone" mental hea
 ---
 
 # ZenZone: Mental Health Dashboard App
-![WhatsApp Image 2024-05-03 at 16 25 03 (1)](https://github.com/varunchopra-08/Mental_Health_Dashboard/assets/88198310/834c49fb-3f2e-4a03-b15d-72e9357e4956)
+![WhatsApp Image 2024-05-03 at 16 25 03 (1)](https://github.com/varunchopra-08/Mental_Health_Dashboard/assets/88198310/834c49fb-3f2e-4a03-b15d-72e9357e4956) 
 
 ![WhatsApp Image 2024-05-03 at 16 24 59](https://github.com/varunchopra-08/Mental_Health_Dashboard/assets/88198310/589e6465-0fbc-4cb9-a9fa-ff68da04232b)
+
+
 
 
 
